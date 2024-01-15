@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Background
+comment1.params=
+comment1.target=Background()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ add_objects()
+comment4.params=
+comment4.target=void\ add_flies()
+comment5.params=
+comment5.target=void\ tambahskor()
+comment6.params=position
+comment6.target=void\ paint(int)
+comment6.text=\r\n\ Paint\ scrolling\ image\ at\ given\ position\ and\ make\ sure\ the\ rest\ of\r\n\ the\ background\ is\ also\ painted\ with\ the\ same\ image.\r\n
+comment7.params=width\ height
+comment7.target=greenfoot.GreenfootImage\ getScrollingImage(int,\ int)
+comment7.text=\r\n\ Returns\ an\ image\ with\ the\ given\ dimensions.\r\n
+numComments=8
